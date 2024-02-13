@@ -1,16 +1,19 @@
-### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-<!--
-**hihijazi/hihijazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi I'm Hadil Hijazi.  
+![background image with name](https://github.com/hihijazi/hihijazi/assets/148264944/a42c8775-4ba4-4e8b-b8f5-91f7b813ee5a)
 
-Here are some ideas to get you started:
+I'm so happy you're here! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Full-Stack Software Engineer.  I love programming, reading, and traveling. 
+
+As a Software Engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.  That's why I like to make things that make a difference.  
+
+#Speaking about my Personal Work: 
+
+- 🔭 I’m currently working on something cool!
+- 🌱 I’m currently learning Data Structures and Algorithms on leetcode.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: hihijazi@gmail.com
+
+
