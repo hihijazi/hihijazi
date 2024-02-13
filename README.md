@@ -1,6 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-### Hi I'm Hadil Hijazi.  
+#### Hi I'm Hadil Hijazi.  
 ![background image with name](https://github.com/hihijazi/hihijazi/assets/148264944/a42c8775-4ba4-4e8b-b8f5-91f7b813ee5a)
 
 I'm so happy you're here! 👋
