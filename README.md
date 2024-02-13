@@ -7,7 +7,7 @@ I am a Full-Stack Software Engineer.  I love programming, reading, and traveling
 
 As a Software Engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.  That's why I like to make things that make a difference.  
 
-#Speaking about my Personal Work: 
+Speaking about my Personal Work: 
 
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning Data Structures and Algorithms on leetcode.
