@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-![background image with name](https://github.com/hihijazi/hihijazi/assets/148264944/a42c8775-4ba4-4e8b-b8f5-91f7b813ee5a)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9B242D&center=true&vCenter=true&width=500&lines=Always+learning+new+things;Full-Stack+Web+Developer;Passionate+about+coding+and+traveling!" alt="Typing SVG" />
