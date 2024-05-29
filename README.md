@@ -13,7 +13,7 @@ As a Software Engineer, I enjoy using my obsessive attention to detail, my unequ
 
 **About me**
 
-- 💼 I'm a full-stack developer, I love programming, reading, and traveling.  
+- 💼 I'm a full-stack developer/business analyst. I love programming, reading, and traveling.  
 
 - 📈 I'm a coding bootcamp graduate from Flatiron School
 
